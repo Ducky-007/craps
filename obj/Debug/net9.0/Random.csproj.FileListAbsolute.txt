@@ -12,3 +12,4 @@ C:\Users\CameronDuckett\Desktop\Projects\C#\Random\Random\obj\Debug\net9.0\refin
 C:\Users\CameronDuckett\Desktop\Projects\C#\Random\Random\obj\Debug\net9.0\Random.pdb
 C:\Users\CameronDuckett\Desktop\Projects\C#\Random\Random\obj\Debug\net9.0\Random.genruntimeconfig.cache
 C:\Users\CameronDuckett\Desktop\Projects\C#\Random\Random\obj\Debug\net9.0\ref\Random.dll
+C:\Users\CameronDuckett\Desktop\Projects\C#\Random\Random\obj\Debug\net9.0\Random.sourcelink.json
